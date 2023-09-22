@@ -6,19 +6,10 @@
 
 html,
 body {
-  background-color: var(--fondo-pantalla);
-  color: var(--textos);
   margin: 0;
   padding: 0;
-  background-color: rgb(240, 240, 240);
+  
 }
-/* Archivo: css/common.css */
-:root {
-  --magenta: #ee3d8f;
-  --celeste: #37bbed;
-  --morado: #9283be;
-}
-
 
 :root {
   --magenta: #ee3d8f;
@@ -84,7 +75,7 @@ header .header-page {
   padding: 0.5em;              
   background-color: var(--fondo-Cabecera); 
   color: white;                
-  width: 100%;                  
+  width: 90%;                  
   margin-top: 0;              
   margin-right: auto;          
   margin-bottom: auto;        
@@ -93,8 +84,8 @@ header .header-page {
 }
 
 header #menu-negro{
-  margin-right: 5px;
-  margin-left: 5px;
+  margin-right: 13px;
+  margin-left: 13px;
   padding-top: 20px;
   background-color: var(--fondo-Menu);
   width: 100%;
